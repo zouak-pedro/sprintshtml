@@ -10,9 +10,28 @@ body {
   color: #507dbc;
 }
 .blogpost h2 {
-  font-size: 1.5rem;
+  font-size: 1.2rem;
 }
 .detailed_post h1 {
   font-size: 2rem;
   text-align: center;
+}
+
+.detailed_post p {
+  margin: 10px;
+}
+
+.blogpost article {
+  border: solid #a1c6ea 1px;
+  width: 300px;
+  margin: 10px;
+  padding: 5px;
+  border-radius: 10px;
+}
+
+.detailed_post article {
+  border: solid #a1c6ea 1px;
+  margin: 10px;
+  padding: 5px;
+  border-radius: 10px;
 }
