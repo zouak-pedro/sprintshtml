@@ -1,0 +1,18 @@
+* {
+  font-family: Arial, Helvetica, sans-serif;
+  color: #04080f;
+}
+body {
+  background-color: #dae3e5;
+}
+.blogpost h2,
+.detailed_post h1 {
+  color: #507dbc;
+}
+.blogpost h2 {
+  font-size: 1.5rem;
+}
+.detailed_post h1 {
+  font-size: 2rem;
+  text-align: center;
+}
