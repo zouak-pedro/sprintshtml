@@ -1,6 +1,7 @@
 * {
   font-family: Arial, Helvetica, sans-serif;
   color: #04080f;
+  box-sizing: border-box;
 }
 body {
   background-color: #dae3e5;
